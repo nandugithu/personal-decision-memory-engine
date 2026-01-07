@@ -31,5 +31,5 @@ This project is needed to store, analyze, and learn from decisions to improve fu
 - Expandable AI-based system
 
 
-## 🏗️ System Architecture
+
 
