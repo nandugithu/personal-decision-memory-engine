@@ -34,6 +34,15 @@ Decision: Learn Python
 Reason: Needed for placements  
 Expected outcome: Improve programming skills
 
+
+### View Stored Decisions
+Decision 1
+Decision: Learn Python
+Reason: Needed for placements
+Expected Outcome: Improve coding skills
+Actual Outcome:
+Date: 2026-03-12
+
 ## Future Improvements
 - Web interface
 - AI based decision suggestions
