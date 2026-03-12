@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Decision Memory Engine
 
 ## Overview
@@ -37,3 +38,6 @@ Expected outcome: Improve programming skills
 - Web interface
 - AI based decision suggestions
 - Data visualization
+=======
+
+>>>>>>> 4d6f39fb9a259a4343addd00830da1091057db9a
